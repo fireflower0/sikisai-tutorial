@@ -1,6 +1,5 @@
 (defpackage sikisai-tutorial/00/simple-window
   (:use :cl)
-  (:import-from :sikisai)
   (:export :main))
 (in-package :sikisai-tutorial/00/simple-window)
 

@@ -1,6 +1,5 @@
 (defpackage sikisai-tutorial/00/draw-text
   (:use :cl)
-  (:import-from :sikisai)
   (:export :main))
 (in-package :sikisai-tutorial/00/draw-text)
 

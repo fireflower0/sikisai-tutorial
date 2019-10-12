@@ -7,4 +7,6 @@
                "cl-glut"
                "cl-glu"
                "sikisai"
-               "sikisai-tutorial/app"))
+               "sikisai-tutorial/boot"))
+
+(register-system-packages "sikisai-tutorial/boot" '(#:sikisai-tutorial))
